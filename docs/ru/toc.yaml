@@ -9,5 +9,5 @@ items:
     href: anotherpage.md
   - name: Sub-Section 
     include:
-      path: sub-section/toc.yaml
+      path: template/toc.yaml
       mode: link

@@ -1,0 +1,5 @@
+title: Оглавление для раздела "Template"
+href: index.yaml
+items:
+  - name: Контент
+    href: content.md
