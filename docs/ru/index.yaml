@@ -2,7 +2,5 @@ title: Заметки
 links:
   - title: About
     href: about.md
-  - title: Главная страница
-    href: page.md
   - title: Раздел для шаблонов
     href: template/
