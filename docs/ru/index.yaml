@@ -2,5 +2,5 @@ title: Заметки
 links:
   - title: About
     href: about.md
-  - title: Раздел для шаблонов
-    href: template/
+  - title: Диалоги с ChatGPT
+    href: dialogs_chatgpt/

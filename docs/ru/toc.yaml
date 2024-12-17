@@ -3,7 +3,7 @@ href: index.yaml
 items: 
   - name: About
     href: about.md
-  - name: Шаблон
+  - name: Диалоги с GPT
     include:
-      path: template/toc.yaml
+      path: dialogs_chatgpt/toc.yaml
       mode: link
