@@ -1,4 +1,3 @@
-# Sub-Section with content 
+# Шаблон раздела для последующего переиспользования
 
-This is an example page for demonstation how sub-sections can be organized. 
-More details about subsections inclusion can be found [here](https://diplodoc.com/docs/en/project/toc)
+Используй этот раздел как шаблон при создании новых
