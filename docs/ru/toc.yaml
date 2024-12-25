@@ -7,3 +7,4 @@ items:
     include:
       path: dialogs_chatgpt/toc.yaml
       mode: link
+      href: dialogs_chatgpt/index.yaml
