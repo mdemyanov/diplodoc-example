@@ -4,7 +4,7 @@ items:
   - name: About
     href: about.md
   - name: Диалоги с GPT
+    href: dialogs_chatgpt/index.yaml
     include:
       path: dialogs_chatgpt/toc.yaml
       mode: link
-      href: dialogs_chatgpt/index.yaml
